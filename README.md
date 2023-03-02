@@ -6,7 +6,7 @@ Full Stack Developer
 
 In the middle of a new self-rediscovery. Currently switching from one career field to technology and fell in love with programming. I enjoy the constant challenge of learning something new and putting it to use which is why programming works really well for me. In my free time, I like to read, learn a new language, or just nerd out with the latest Netflix series. Right now trying to be more fluent in Japanese and learning Spanish just because it's fun to speak another language. Currently trying to master Python and become a better backend developer. Two of my big goals in life are to build an AI system for doctors and other healthcare professionals also to build an advanced stock screening system for people. That bases their stock selection on their risk tolerance.
 
-* 🖥️  See my portfolio at [Justin's World](http://https://justinolivo52.github.io/portfoliosite/)
+* 🖥️  See my portfolio at [Justin's World]([https://justinolivo52.github.io/portfolio-site/])
 * ✉️  You can contact me at [justinolivo1207@gmail.com](mailto:justinolivo1207@gmail.com)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Projects
