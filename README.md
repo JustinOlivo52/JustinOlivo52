@@ -1,47 +1,56 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Justin Olivo
-====================================================================================================================================
+<h1 align="left">Welcome to My World 😈</h1>
 
-Full Stack Developer
---------------------
+###
 
-In the middle of a new self-rediscovery. Currently switching from one career field to technology and fell in love with programming. I enjoy the constant challenge of learning something new and putting it to use which is why programming works really well for me. In my free time, I like to read, learn a new language, or just nerd out with the latest Netflix series. Right now trying to be more fluent in Japanese and learning Spanish just because it's fun to speak another language. Currently trying to master Python and become a better backend developer. Two of my big goals in life are to build an AI system for doctors and other healthcare professionals also to build an advanced stock screening system for people. That bases their stock selection on their risk tolerance.
+<h2 align="left">Justin | AI Engineer | AI Cloud Engineer</h2>
 
-* 🖥️  See my portfolio at [Justin's World](([https://justinolivo52.github.io/portfolio-site/]))
-* ✉️  You can contact me at [justinolivo1207@gmail.com](mailto:justinolivo1207@gmail.com)
-* 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on Projects
-* ⚡  I am Iron Man spread the word.
+###
 
-### Skills
+<p align="left">Healthcare worker switching to technology. I always loved technology and seeing what things I can create. I have a desire to help make healthcare easier and accessible to all by using my healthcare experience and AI. Welcome to my journey of discover and making healthcare a better place with technology.<br><br> 🏥 Healthcare worker<br>✉️  You can contact me at justinolivo1207@gmail.com<br>🧠  I'm currently learning Spanish and Japanese<br>🤝  I'm open to collaborating on Projects<br>🤖Come join my AI development Journey</p>
 
+###
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
+</div>
 
+###
 
-### Socials
+<div align="left">
+</div>
 
-<p align="left"> <a href="https://www.github.com/JustinOlivo52" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/justin-olivo-369029175" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+###
 
-### Badges
+<div align="left">
+  <a href="https://www.linkedin.com/in/justin-olivo52/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="8454895549" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
 
-<b>My GitHub Stats</b>
+###
 
-<a href="http://www.github.com/JustinOlivo52"><img src="https://github-readme-stats.vercel.app/api?username=JustinOlivo52&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="JustinOlivo52's GitHub stats" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JustinOlivo52/JustinOlivo52/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JustinOlivo52/JustinOlivo52/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JustinOlivo52/JustinOlivo52/output/pacman-contribution-graph.svg">
+</picture>
 
-<a href="http://www.github.com/JustinOlivo52"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JustinOlivo52&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+###
 
-<a href="http://www.github.com/JustinOlivo52"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=JustinOlivo52&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JustinOlivo52&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JustinOlivo52&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<a href="https://github.com/JustinOlivo52" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinOlivo52&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+###username=JustinOlivo52&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
