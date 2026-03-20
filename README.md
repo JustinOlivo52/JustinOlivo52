@@ -1,38 +1,54 @@
-<h1 align="left">Welcome to My World 😈</h1>
+# Justin Olivo
+### Applied AI Engineer &nbsp;·&nbsp; HealthTech Domain Expert
 
-###
+> Building LLM-powered clinical tools at the intersection of 9+ years of Emergency Medicine and modern AI engineering. I don't just write AI apps — I understand the clinical environments they need to work in.
 
-<h2 align="left">Justin | AI Engineer | AI Cloud Engineer</h2>
+---
 
-###
+### 🛠️ Tech Stack
 
-<p align="left">Healthcare worker switching to technology. I always loved technology and seeing what things I can create. I have a desire to help make healthcare easier and accessible to all by using my healthcare experience and AI. Welcome to my journey of discover and making healthcare a better place with technology.<br><br> 🏥 Healthcare worker<br>✉️  You can contact me at justinolivo1207@gmail.com<br>🧠  I'm currently learning Spanish and Japanese<br>🤝  I'm open to collaborating on Projects<br>🤖Come join my AI development Journey</p>
+![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-LangGraph-orange?style=flat-square)
+![Claude](https://img.shields.io/badge/Anthropic-Claude-purple?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-green?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google-Gemini_Vision-blue?style=flat-square&logo=google&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Bedrock_%7C_SageMaker-orange?style=flat-square&logo=amazonaws&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/Vector_DB-ChromaDB_%7C_Pinecone-teal?style=flat-square)
+![Streamlit](https://img.shields.io/badge/UI-Streamlit_%7C_FastAPI-red?style=flat-square)
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
-</div>
+### 🚀 Featured Projects
 
-###
+#### 🫀 [CardioBot](https://github.com/JustinOlivo52/cardiobot) — AI Clinical Cardiology Assistant
+> Multi-LLM agentic RAG system for clinical cardiology support
 
-<div align="left">
-</div>
+- **Architecture:** LangGraph state machine routing queries across Claude Sonnet, Gemini Vision, and GPT-4
+- **RAG Pipeline:** 895 indexed passages from the 2023 ESC ACS Guidelines in ChromaDB
+- **Features:** Clinical Q&A, EKG image interpretation, weight-based drug dosing, citation search
+- **Live:** [cardiodoc.streamlit.app](https://cardiodoc.streamlit.app)
 
-###
+`LangGraph` `RAG` `ChromaDB` `Claude` `Gemini Vision` `GPT-4` `Streamlit` `Python`
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/justin-olivo52/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+---
+
+### 🏥 Why HealthTech AI?
+
+I spent 9+ years as an Emergency Room Technician at a Level II trauma center — performing EKGs, monitoring critical patients, and working alongside ER physicians on ACS and STEMI cases. I've seen firsthand where clinical workflows break down and where AI can genuinely help.
+
+That domain expertise is built into everything I build.
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-justin--olivo52-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/justin-olivo52)
+[![Email](https://img.shields.io/badge/Email-justinolivo1207%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:justinolivo1207@gmail.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-CardioBot-brightgreen?style=flat-square)](https://cardiodoc.streamlit.app)
+
+---
+
+*Open to Applied AI Engineering roles — especially in HealthTech, clinical AI, and LLM application development.*
   <a href="8454895549" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
