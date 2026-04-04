@@ -1,7 +1,17 @@
-# Justin Olivo
-### Applied AI Engineer &nbsp;·&nbsp; HealthTech Domain Expert
+# Hi, I'm Justin 👋
 
-> Building LLM-powered clinical tools at the intersection of 9+ years of Emergency Medicine and modern AI engineering. I don't just write AI apps — I understand the clinical environments they need to work in.
+### Applied AI Engineer | HealthTech Domain Expert
+
+I build production LLM agent systems and agentic RAG pipelines 
+for healthcare. 9+ years as an Emergency Room Technician — 
+I don't just engineer AI for healthcare, I understand it from 
+the inside.
+
+🏥 Currently building: CardioBot + TriageBot  
+🤖 Stack: LangGraph • Claude • GPT-4 • Gemini • ChromaDB • FastAPI  
+☁️ AWS Certified Cloud Practitioner  
+🤝 Open to collaborating on health tech AI projects  
+📧 justinolivo1207@gmail.com
 
 ---
 
@@ -49,9 +59,6 @@ That domain expertise is built into everything I build.
 ---
 
 *Open to Applied AI Engineering roles — especially in HealthTech, clinical AI, and LLM application development.*
-  <a href="8454895549" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
 </div>
 
 ###
